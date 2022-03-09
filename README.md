@@ -1,12 +1,17 @@
 # KlasifikatorNamjestajaDNN
 
 Tema rada: Duboka konvolucijska neuronska mreža kao klasifikator namještaja
+
 Autori: Marko Hajba i Dora Fabijanić
+
 Ustanova: Veleučilište u Virovitici, Matije Gupca 78, Virovitica
+
 Kontakt: marko.hajba@vuv.hr
+
 Poveznica na članak: https://vuv.hr/wp-content/uploads/2020/11/ET2eR,%20vol.2,%20br.II,%202020.pdf  (stranice 59. - 64.)
 
 Repositorij sadrži programski kod sa platforme Kaggle koji je korišten pri pisanju članka.
+
 Baza podataka je također preuzeta sa Kaggle platforme:
 https://www.kaggle.com/akkithetechie/furniture-detector
 
